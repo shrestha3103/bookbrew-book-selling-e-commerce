@@ -1,0 +1,88 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-banner",
+      "description": "A cozy library with warm lighting",
+      "imageUrl": "https://images.unsplash.com/photo-1729932989176-6d905172c123?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb3p5JTIwbGlicmFyeXxlbnwwfHx8fDE3NjQyNjIwNDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cozy library"
+    },
+    {
+      "id": "book-1",
+      "description": "The Great Gatsby book cover",
+      "imageUrl": "https://images.unsplash.com/photo-1617126481205-cdf29da03b41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhcnQlMjBkZWNvfGVufDB8fHx8MTc2NDI2MjA0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "art deco"
+    },
+    {
+      "id": "book-2",
+      "description": "To Kill a Mockingbird book cover",
+      "imageUrl": "https://images.unsplash.com/photo-1530645129422-1c799ab5e3ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzb3V0aGVybiUyMHRyZWV8ZW58MHx8fHwxNzY0MjYyMDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "southern tree"
+    },
+    {
+      "id": "book-3",
+      "description": "1984 book cover",
+      "imageUrl": "https://images.unsplash.com/photo-1565420023940-4eef9c775d6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkeXN0b3BpYW4lMjBleWV8ZW58MHx8fHwxNzY0MjYyMDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dystopian eye"
+    },
+    {
+      "id": "book-4",
+      "description": "Pride and Prejudice book cover",
+      "imageUrl": "https://images.unsplash.com/photo-1763625639547-44964348f765?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyZWdlbmN5JTIwZHJlc3N8ZW58MHx8fHwxNzY0MjYyMDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "regency dress"
+    },
+    {
+      "id": "book-5",
+      "description": "The Hobbit book cover",
+      "imageUrl": "https://images.unsplash.com/photo-1548445929-4f60a497f851?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmYW50YXN5JTIwbGFuZHNjYXBlfGVufDB8fHx8MTc2NDI0MDQzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fantasy landscape"
+    },
+    {
+      "id": "book-6",
+      "description": "Moby Dick book cover",
+      "imageUrl": "https://images.unsplash.com/photo-1530099531892-0932c5324757?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3aGFsZSUyMG9jZWFufGVufDB8fHx8MTc2NDI2MjA0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "whale ocean"
+    },
+    {
+      "id": "book-7",
+      "description": "War and Peace book cover",
+      "imageUrl": "https://images.unsplash.com/photo-1760427144120-c08cb7a4b386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoaXN0b3JpYyUyMHNvbGRpZXJ8ZW58MHx8fHwxNzY0MjYyMDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "historic soldier"
+    },
+    {
+      "id": "book-8",
+      "description": "The Catcher in the Rye book cover",
+      "imageUrl": "https://images.unsplash.com/photo-1702481921659-db8fa007400b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyZWQlMjBjYXJvdXNlbHxlbnwwfHx8fDE3NjQyNjIwNTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red carousel"
+    },
+    {
+      "id": "book-9",
+      "description": "Brave New World book cover",
+      "imageUrl": "https://images.unsplash.com/photo-1573767291321-c0af2eaf5266?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmdXR1cmlzdGljJTIwY2l0eXxlbnwwfHx8fDE3NjQyNDIwMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic city"
+    },
+    {
+      "id": "book-10",
+      "description": "The Lord of the Rings book cover",
+      "imageUrl": "https://images.unsplash.com/photo-1720253814850-0b81a96f52ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmYW50YXN5JTIwbWFwfGVufDB8fHx8MTc2NDI0MzE1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fantasy map"
+    },
+    {
+      "id": "book-11",
+      "description": "Dune book cover",
+      "imageUrl": "https://images.unsplash.com/photo-1654352682383-05bbc274aff5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkZXNlcnQlMjBwbGFuZXR8ZW58MHx8fHwxNzY0MjYyMDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "desert planet"
+    },
+    {
+      "id": "book-12",
+      "description": "Foundation book cover",
+      "imageUrl": "https://images.unsplash.com/photo-1634337071580-ab2032bf7e01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxnYWxheHklMjBzcGlyYWx8ZW58MHx8fHwxNzY0MjYyMDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "galaxy spiral"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "User avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "woman face"
+    }
+  ]
+}
