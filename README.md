@@ -1,4 +1,4 @@
-# BookBrew: Discover Your Next Chapter
+# 📖 BookBrew: Discover Your Next Chapter
 
 Welcome to BookBrew, a feature-rich e-commerce application for an online bookstore. This application is built with Next.js and demonstrates a complete user-facing storefront, a comprehensive admin dashboard, and integration with Generative AI for personalized experiences.
 
