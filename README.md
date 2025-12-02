@@ -98,4 +98,3 @@ The application leverages Genkit to provide intelligent features.
         3.  A prompt is sent to the Google AI model, instructing it to act as a book expert and recommend new titles based on the provided history. The prompt specifically asks the AI to avoid recommending books the user has already seen.
         4.  The AI returns a list of recommended book titles.
         5.  The component then finds these books in the main `books` data and displays them in a carousel. A fallback mechanism ensures that if the AI fails or returns too few results, the section is populated with other popular books.
-```
